@@ -5,9 +5,9 @@ public class Demo9 {
 		int a = 2021;
 		String b;
 		if (a%4 == 0 && a%100 != 0 || a%400 == 0)
-			b = "是闰年";
+			b = "脢脟脠貌脛锚";
 		else
-			b = "不是闰年";
+			b = "虏禄脢脟脠貌脛锚";
 		System.out.println(b);
 	}
 }
