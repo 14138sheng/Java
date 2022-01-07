@@ -1,6 +1,6 @@
 package class1;
 /**
- * �Һ�˧��
+ * ÎÒºÜË§£¡
  * @author HuaWei
  *
  */
