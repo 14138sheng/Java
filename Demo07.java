@@ -7,10 +7,10 @@ public class Demo7 {
 		boolean b = a%4==0;
 		boolean c = a%100!=0;
 		boolean d = a%400==0;
-		String e = (b && c) || d?"ÊÇÈòÄê":"²»ÊÇÈòÄê";
+		String e = (b && c) || d?"æ˜¯é—°å¹´":"ä¸æ˜¯é—°å¹´";
 		System.out.println(e);
 		
-		String f = a%4==0 && a%100!=0 || a%400==0?"ÊÇÈòÄê":"²»ÊÇÈòÄê";
+		String f = a%4==0 && a%100!=0 || a%400==0?"æ˜¯é—°å¹´":"ä¸æ˜¯é—°å¹´";
 		System.out.println(f);
 	}
 }
