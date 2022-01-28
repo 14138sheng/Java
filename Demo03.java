@@ -1,6 +1,6 @@
 package class1;
 
-public class Demo3 {
+public class Demo03 {
 	public static void main(String[] args) {
 		byte a = 10;
 		int b = 20;
