@@ -1,6 +1,6 @@
 package class2;
 
-public class Demo9 {
+public class Demo09 {
 	public static void main(String[] args) {
 		int a = 2021;
 		String b;
