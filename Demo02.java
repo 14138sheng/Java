@@ -4,7 +4,7 @@ package class1;
  * @author HuaWei
  *
  */
-public class Demo2 {
+public class Demo02 {
 	public static void main(String[] args) {
 		int a;
 		a=3;
