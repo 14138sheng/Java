@@ -1,6 +1,6 @@
 package class2;
 
-public class Demo5 {
+public class Demo05 {
 	public static void main(String[] args) {
 		int a = 12345;
 		int b = a/10000%10;
